@@ -14,3 +14,5 @@ Additionally, for better appearance, I organized the AccountFragment to be compa
 
 https://github.com/Getir-Android-Kotlin-Bootcamp/getir-android-kotlin-bootcamp-w3-assignment-enesarisoy/assets/70036852/1eb3ddf2-4b4f-48ce-8a8d-8396952a8e50
 
+## Version
+Android Studio Iguana | 2023.2.1
